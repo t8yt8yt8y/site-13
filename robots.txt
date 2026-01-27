@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://page-turner-books.netlify.app/sitemap.xml
+
+
